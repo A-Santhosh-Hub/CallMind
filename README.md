@@ -121,7 +121,7 @@ app/src/main/java/com/example/callmind/
 1. Install **Android Studio Ladybug (2024.2) or newer** (it ships with JDK 21).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/CallMind.git
+   git clone https://github.com/A-Santhosh-Hub/CallMind.git
    ```
 3. Open the folder in Android Studio and wait for **Gradle sync** to finish.
 4. Connect a phone (or start an emulator) and press **Run**.
