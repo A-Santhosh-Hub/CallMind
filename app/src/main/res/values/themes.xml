@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- The window colour is what shows before the first Compose frame; it matches the app's page colour. -->
+    <style name="Theme.CallMind" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+    <!-- In-call screen (phone mode): always dark, like the phone's own call screen. -->
+    <style name="Theme.CallMind.InCall" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/incall_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- "Call ended" popup: transparent window so the card floats over whatever was on screen. -->
+    <style name="Theme.CallMind.PostCall" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+    </style>
+</resources>

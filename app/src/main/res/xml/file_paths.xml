@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lets the recordings screen share a call recording with another app. -->
+<paths>
+    <external-files-path name="recordings" path="Recordings/" />
+    <files-path name="recordings_internal" path="Recordings/" />
+</paths>
