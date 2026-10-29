@@ -164,6 +164,12 @@ Run the unit tests with `./gradlew testDebugUnitTest`.
 **Developed by [SanStudio](https://sanstudio-hub.github.io/in/)**
 Portfolio: <https://sanstudio-hub.github.io/in/>
 
+---------------------
+Install and Use It
+
+
+
+
 ## License
 
 No license has been chosen yet. Until you add a `LICENSE` file, all rights are reserved by SanStudio.
