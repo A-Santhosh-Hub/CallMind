@@ -166,9 +166,7 @@ Portfolio: <https://sanstudio-hub.github.io/in/>
 
 ---------------------
 Install and Use It
-
-
-
+-------
 
 ## License
 
